@@ -53,7 +53,7 @@ I am an MERN Stack Developer and have designed and built so many apps and websit
             <br></br>
             <img src={hr} className="w-full md:h-2 absolute bottom-0" alt="hr" /> */}
        
-        <div  className='flex gap-x-3.5  md:flex-nowrap' style={{color:"red"}}>
+        <div  className='flex gap-x-3.5  ' style={{color:"red"}}>
                <a href='https://www.codechef.com/users/coderunner22' target="_blank"> <div class=""><img src={Codechef}/></div> </a>
                <a href='https://codeforces.com/profile/shrain_22' target="_blank"><div class="  "><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"/></div></a>
               <a href='https://auth.geeksforgeeks.org/user/jainshrajan482' target="_blank"> <div class="  "><img src={GFG}/></div></a>

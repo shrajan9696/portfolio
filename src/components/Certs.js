@@ -17,6 +17,7 @@ import Simmons from "../assets/certs/Simmons.png"
 import dicee_game from "../assets/certs/dicee_game.png"
 import college from "../assets/certs/college.png"
 import mySql from "../assets/certs/mySql.png"
+import puzzle from "../assets/certs/puzzle.png"
 
 // import
 
@@ -35,6 +36,7 @@ with ease." live="https://quotopedia24.cyclic.app/" github="https://github.com/s
 able to save meals in a cart and complete the order at a later time.
 • The website generates professional-looking invoice receipts using JSpdf, a npm module that allows users to download and preview
 their bill" tech="React.js, Firebase, pdfJS " />
+  <CertCard name="The Puzzle Game" img={puzzle} desc="It is a basic puzzle game made for the elitmus assignement where user will face a series of queries to be answered in form of quizes and puzzles, everything is nicely presented with the help of music and animations, hope you will enjoy the game." live="https://puzzle-game-sw40.onrender.com/login" github="https://github.com/shrajan9696/puzzle_game" tech="HTML, CSS, NodeJS, expressJs, MongoDB, EJS"></CertCard>
             <CertCard name="The Drum Kit" img={DrumKit} live="https://gorgeous-taiyaki-4e1163.netlify.app/" github="" tech="HTML, CSS, Javascript"
                 desc="A drum kit project built using HTML, CSS, and JavaScript is a fun and interactive web application that simulates a virtual drum kit. The real magic of the project comes from JavaScript, which handles the interaction between the user and the drum kit. JavaScript would be used to detect when a user clicks on a drum kit component and then play the corresponding sound using audio files" />
             <CertCard name="To Do Keeper" img={To_Do_Keeper} tech="React.js NodeJs, ExpressJS, MongoDB"
