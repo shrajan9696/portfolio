@@ -30,9 +30,9 @@ export default function Hiro () {
                     <h1 className="text-xl text-gray-400">Hi, I'm</h1>
                     <h1 className="text-2xl font-bold" style={{color:"aqua"}}>Shrajan Jain</h1>
                     <p class="text-xl font-bold text-gray-300">Mern Stack Developer, Algorithms and Competetive Programmer</p>
-                    <p className="text-md font-light text-gray-400 ">Hello, I'm Shrajan Jain. Currently, I am a third year student pursuing a Bachelor of Technology in Computer Science and engineering at Kamla Nehru Institute of Technology, Sultanpur.</p>
+                    <p className="text-md font-light text-gray-400 ">Hello, I'm Shrajan Jain. Currently, I am a final year student pursuing a Bachelor of Technology in Computer Science and engineering at Kamla Nehru Institute of Technology, Sultanpur.</p>
                     <p className="text-md font-light text-gray-400 ">
-I am an MERN Stack Developer and have designed and built so many apps and websites for personal, group, using differet tech Stacks. I am also a competitive programmer on Codechef, Codeforces, and Leetcode. I am very passionate about learning new Technologies, Algorithms and Data Structures.</p>
+I am an MERN Stack Developer and have designed and built so many websites for personal, group,and worked for more multiple startups using differet tech Stacks. I am also a competitive programmer on Codechef, Codeforces, and Leetcode. I am very passionate about learning new Technologies, Algorithms and Data Structures.</p>
                 </div>
                 {/* <a href='http://blog.dama.ink' className='mt-2 block'>Go to My Blog <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}
                 

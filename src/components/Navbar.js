@@ -12,7 +12,7 @@ export default function Navbar() {
             {/* <li className="p-4"><a href="#honors" className="hover:underline">Honor & Awards</a></li> */}
             <li className="p-4"><a href="#certs" className="hover:underline">Projects</a></li>
             </ul>
-            <a href='https://drive.google.com/file/d/1ZO3V-NVrMq0bZPYuQCfY1Cb2vEoYnK-I/view' rel="noreferrer" target="_blank" className=" bg-teal-500 rounded-full px-4 py-1 border border-teal-800 border border-4 ease-in duration-300 ...">Resume</a>
+            <a href='https://drive.google.com/file/d/1f0RJCN5mWUi9qrhEbkEu9PQAvaM3zykf/view?usp=sharing' rel="noreferrer" target="_blank" className=" bg-teal-500 rounded-full px-4 py-1 border border-teal-800 border border-4 ease-in duration-300 ...">Resume</a>
         </div>
     </div>
     )
